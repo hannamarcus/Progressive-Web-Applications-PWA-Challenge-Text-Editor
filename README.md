@@ -35,7 +35,7 @@
 * WHEN I deploy to Heroku
 * THEN I should have proper build scripts for a webpack application
 
-## Installation for Local
+## Installation for Local Use
 * npm i 
 * npm run start 
 
